@@ -84,9 +84,9 @@ projects:
       The code is available on the Github (linked below). I also upload these image on Instagram everyday.
     assignments:
       - title: pytorch_cnn_preferred
-        link: "#https://github.com/kencan7749/pytorch_cnn_preferred"
+        link: "https://github.com/kencan7749/pytorch_cnn_preferred"
         tagline: "Generate aimage/video that increased target unit's activity value in arbitrary CNN model written in pytorch."
 
       - title: Instagram
-        link: "#https://www.instagram.com/k__shirakawa/"
+        link: "https://www.instagram.com/k__shirakawa/"
         tagline: "Generating images using such tools"
