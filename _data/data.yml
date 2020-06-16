@@ -122,7 +122,7 @@ skills:
         
         
 publications:
-    title: Publications
+    title: Research achievement
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -142,13 +142,13 @@ publications:
 #        link: "#"
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
-     International conference:
+    International conference (poster):
       - title: Decoding image motion using deep neural network features
         link: "#"
         authors: Ken Shirakawa and Yukiyasu Kamitani 
         conference: The 15th Asia-Pacific Conference on Vision Osaka, Japan, July, 2019
         
-     Domestic conference: 
+    Domestic conference (poster): 
       - title: ヒト iPS 細胞由来分化心筋細胞の収縮機能に対する統合的品質評価
         authors: 山口 賢彦, 中川 桃夏, 鈴木 結衣, 佐野 優介, 白川 健, 間島 慶, 神谷 之康, 坂本 多穂, 諌田 泰成, 黒川 洵子
         conference: 日本安全性薬理研究会 第 10 回学術年会, 東京, 2019 年 3 月
