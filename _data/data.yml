@@ -90,3 +90,53 @@ projects:
       - title: Instagram
         link: "https://www.instagram.com/k__shirakawa/"
         tagline: "Generating images using such tools"
+        
+  #publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python 
+        level: 94%
+      
+      - name: Matlab
+        level: 80%
+        
+      - name: R
+        level: 60%
+
+      - name: Javascript 
+        level: 40%
+
+      - name: HTML5 & CSS
+        level: 75%
+        
+     - name: C
+        level: 40%
+        
+     - name: Java
+        level: 20%
+
+      - name: Go
+        level: 20%
+
