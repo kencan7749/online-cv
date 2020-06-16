@@ -130,7 +130,7 @@ publications:
 
     papers:
       - title: Decoding image motion using deep neural network features
-        link: "#"
+        #link: "#"
         authors: Ken Shirakawa and Yukiyasu Kamitani 
         conference: The 15th Asia-Pacific Conference on Vision Osaka, Japan, July, 2019
         
