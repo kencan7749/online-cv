@@ -123,9 +123,9 @@ skills:
         
 publications:
     title: Research achievement
-    intro: |
-      I've been engaged in brain decoding research, which read out the subject's perceptual information from brain activity by machine learning methods. 
-      I'm also conducting collaborative research classify iPS cells using machine learning.
+    #intro: |
+    #  I've been engaged in brain decoding research, which read out the subject's perceptual information from brain activity by machine learning methods. 
+    #  I'm also conducting collaborative research classify iPS cells using machine learning.
 
 
     papers:
