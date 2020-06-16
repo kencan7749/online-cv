@@ -126,31 +126,5 @@ title: Publications
         - title: Pytorch_cnn_preferred ~ニューラルネットの中間表現を探る~
         authors: 白川 健
         conference: 第 11 回脳科学若手の会 春の合宿ワークショップ, 東京，2018 年 3 月
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python 
-        level: 94%
-      
-      - name: Matlab
-        level: 80%
-        
-      - name: R
-        level: 60%
-
-      - name: Javascript 
-        level: 40%
-
-      - name: HTML5 & CSS
-        level: 75%
-        
-     - name: C
-        level: 40%
-        
-     - name: Java
-        level: 20%
-
-      - name: Go
-        level: 20%
 
