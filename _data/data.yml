@@ -67,7 +67,7 @@ education:
       details: 
       
 experiences:
-    - role: Special Research Fellowship for Young Scientists (DC2)
+    - role: Research Fellowship for Young Scientists (DC2)
       time: April 2022 - March 2024
       company: Japan Society for the Promotion of Science
       details: |
@@ -85,7 +85,12 @@ experiences:
       details: 
       
 projects:
-    title: Work
+    title: ArtWork
+    intro: >
+      I've got honorable mention award at The 1st AI Art Grand Prix (March, 2023), collaborated with my colleague. 
+    assignments:
+     - title:「最後の日のわたしたちへ」ふつら＆Kenye featuring VOICEVOX:No.7
+       link: https://www.youtube.com/watch?v=Z8B77w6wPa8&t=157s
     
     intro: >
       I implemtent the tool for generating image/video that increases the DNN unit's activity value.
@@ -98,7 +103,8 @@ projects:
       - title: Instagram
         link: "https://www.instagram.com/k__shirakawa/"
         tagline: "Generating images using such tools"
-        
+
+    
 
 skills:
     title: Skills &amp; Proficiency
