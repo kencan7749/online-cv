@@ -86,15 +86,11 @@ experiences:
       
 projects:
     title: ArtWork
-    intro: >
-      I've got honorable mention award at The 1st AI Art Grand Prix (March, 2023), collaborated with my colleague. 
-    assignments:
-     - title:「最後の日のわたしたちへ」ふつら＆Kenye featuring VOICEVOX:No.7
-       link: https://www.youtube.com/watch?v=Z8B77w6wPa8&t=157s
+    
     
     intro: >
-      I implemtent the tool for generating image/video that increases the DNN unit's activity value.
-      The code is available on the Github (linked below). I also upload these image on Instagram everyday.
+      I've investigated creating generative art using image recognition/generation AIs model. In particular, I've created AI's-represenation-driven work, rater than using AI as a tool to help my creations.
+      
     assignments:
       - title: pytorch_cnn_preferred
         link: "https://github.com/kencan7749/pytorch_cnn_preferred"
@@ -103,6 +99,10 @@ projects:
       - title: Instagram
         link: "https://www.instagram.com/k__shirakawa/"
         tagline: "Generating images using such tools"
+
+      - title: 「最後の日のわたしたちへ」ふつら＆Kenye featuring VOICEVOX:No.7
+        link: https://www.youtube.com/watch?v=Z8B77w6wPa8&t=157s
+        tagline:　I've got honorable mention award at The 1st AI Art Grand Prix (March, 2023), collaborated with my colleague. 
 
     
 
