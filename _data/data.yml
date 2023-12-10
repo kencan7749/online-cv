@@ -43,16 +43,18 @@ sidebar:
 
       - item: Listing music (R&B, HipHip and Balck music)
         link:
+      - item: Taking a bath (Sauna)
+        link: 
 
 career-profile:
     title: Career Profile
     summary: |
       I have been working brain decoding research, which is reading out brain information using machine learning techniques. 
-      Currently, I use deep neural networks (DNNs) for video recognition for brain decoding. 
+      Previously, I utilized deep neural networks (DNNs) for video recognition for brain decoding. Recently, I have grown concerned about the prevalence of exaggerated findings in our field. I am keenly interested in fostering healthy development in brain decoding to reduce such hype.
 education:
     - degree: Ph.D course in Neuroinformatics
       university: Kyoto university
-      time: April 2020 - present
+      time: April 2020 - March 2024
       details: |
     - degree: M.E. in Neuroinformatics
       university: Kyoto university
@@ -65,6 +67,11 @@ education:
       details: 
       
 experiences:
+    - role: Special Research Fellowship for Young Scientists (DC2)
+      time: April 2022 - March 2024
+      company: Japan Society for the Promotion of Science
+      details: |
+
     - role: Research intern
       time: August 2018 - September 2018
       company: NTT Communication Science Laboratories, Atsugi
@@ -79,6 +86,7 @@ experiences:
       
 projects:
     title: Work
+    
     intro: >
       I implemtent the tool for generating image/video that increases the DNN unit's activity value.
       The code is available on the Github (linked below). I also upload these image on Instagram everyday.
@@ -128,7 +136,7 @@ publications:
     #  I'm also conducting collaborative research classify iPS cells using machine learning.
 
 
-    papers:
+    papers,conference presenation:
       - title: Decoding image motion using deep neural network features
         #link: "#"
         authors: Ken Shirakawa and Yukiyasu Kamitani 
